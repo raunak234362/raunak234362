@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raunak234362
-- 👀 I’m interested in web designing and adroid development
+- 👀 I’m interested in web designing, web development.
 - 🌱 I’m currently learning Ethical Hacking
 - 📫 You can reach to me on instagram - @myartspace25
 
