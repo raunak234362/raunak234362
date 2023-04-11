@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @raunak234362
-- 👀 I’m interested in web designing, web development.
-- 🌱 I’m currently learning Ethical Hacking
-- 📫 You can reach to me on instagram - @myartspace25
+- 👋 Hi, I’m Raunakdeep Srivastava
+I am pursuing BCA and it's my final year.
+In this period of time I have done an internship as an SEO executive.
+And learned C/C++, JAVA, HTML CSS, basics of javascript and graphic design.
+My key skill is that I am a keen learner and can learn any new software.
 
-<!---
-raunak234362/raunak234362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your  changes.
---->
